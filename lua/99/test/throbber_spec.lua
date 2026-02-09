@@ -1,5 +1,6 @@
 ---- PURELY AI GENERATED FILE -----
----- This could be crap test, i did about ~15 second code review, looks mostly correct, a little weird, but close enough ----
+---- This could be crap test, i did about ~15 second code review,
+----  looks mostly correct, a little weird, but close enough ----
 local Throbber = require("99.ops.throbber")
 local eq = assert.are.same
 
